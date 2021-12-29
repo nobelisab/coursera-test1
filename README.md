@@ -1,8 +1,8 @@
 <html>
 <head> 
-  <title></title>
 </head>
 <body>
+<font style="Caudex"><font size="2">  
 <h1>Robo-Advisor Elements for Your Website</h1>
   <h3>Registration</h3>
   <h3>Risk Tolerance Assessment</h3>
@@ -32,6 +32,7 @@
       <ul><h4>Diversity and Inclusion</h4></ul>   
  <h3>Tax Protection</h3>
  <h3>Minimal Fees</h3>
-   </ol>       
+   </ol>  
+   </font>
 </body>
 </html>
